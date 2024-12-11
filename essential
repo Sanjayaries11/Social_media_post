@@ -1,0 +1,9 @@
+=npx json-server -p 3000-w data/db.json
+
+
+run this command in new terminal (for endpoint)
+
+
+=npm start
+
+run this in new terminal
